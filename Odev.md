@@ -39,3 +39,4 @@ Dizi sıranladıktan sonra 18 sayısı average case kapsamında bulunur çünkü
 4.[2,3,4,5,6,9,8,15,7]
 ```
 ---
+[Patika.dev profilim](https://app.patika.dev/muzlufistik)
